@@ -75,7 +75,8 @@
 		"thumbnail": "/assets/extension_bg.png",
 		"tags": ["template"],
 		"source": "github",
-		"download_link": "https://github.com/fooplugins/foogallery-polaroid-template/archive/master.zip"
+		"download_link": "https://github.com/fooplugins/foogallery-polaroid-template/archive/master.zip",
+		"minimum_version": "1.0.1"
 	},
 	{
 		"slug": "nextgen",
@@ -101,6 +102,7 @@
 		"thumbnail": "/assets/extension_bg.png",
 		"tags": ["admin"],
 		"source": "github",
-		"download_link": "https://github.com/fooplugins/foogallery-media-menu/archive/master.zip"
+		"download_link": "https://github.com/fooplugins/foogallery-media-menu/archive/master.zip",
+		"minimum_version": "1.0.1"
 	}
 ]
