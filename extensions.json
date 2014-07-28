@@ -119,7 +119,7 @@
 		"description": "Move FooGallery menu items underneath the Media menu rather",
 		"author": "FooPlugins",
 		"author_url": "http://fooplugins.com",
-		"thumbnail": "/assets/extension_bg.png",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/use_media_menu.png",
 		"tags": ["admin"],
 		"source": "github",
 		"download_link": "https://github.com/fooplugins/foogallery-media-menu/archive/master.zip",
