@@ -7,7 +7,7 @@
 		"description": "The bundled gallery templates.",
 		"author": "FooPlugins",
 		"author_url": "http://fooplugins.com",
-		"thumbnail": "/assets/extension_bg.png",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/default_templates_extension.png",
 		"tags": ["template"],
 		"source": "bundled",
 		"activated_by_default": true
