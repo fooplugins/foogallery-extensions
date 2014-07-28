@@ -1,3 +1,4 @@
+
 [
 	{
 		"slug": "default_templates",
@@ -138,5 +139,19 @@
 		"tags": ["template"],
 		"source": "repo",
 		"download_link": "http://wordpress.org/plugins/foogallery-owl-carousel-template/"
-	}
+	},
+	{
+		"slug": "zoom",
+		"class": "ZOOM_Template_FooGallery_Extension",
+		"categories": ["Free"],
+		"file": "foogallery-zoom-extension.php",
+		"title": "ZOOM",
+		"description": "A simple gallery with one awesome effect: ZOOM",
+		"author": "Matt Cromwell",
+		"author_url": "http://mattcromwell.com",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/zoom_template.png",
+		"tags": ["template"],
+		"source": "github",
+		"download_link": "https://github.com/mathetos/foogallery-zoom/archive/master.zip"
+	}	
 ]
