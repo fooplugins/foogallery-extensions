@@ -99,7 +99,7 @@
 	{
 		"slug": "owl-carousel",
 		"class": "Owl_Carousel_Template_FooGallery_Extension",
-		"categories": ["Free"],
+		"categories": ["Featured" , "Free"],
 		"file": "foogallery-owl-carousel-extension.php",
 		"title": "Owl Carousel Template",
 		"description": "An Owl Carousel template with multiple options for presentation and functionality.",
@@ -127,7 +127,7 @@
 	{
 		"slug": "foobox-image-lightbox",
 		"class": "FooGallery_FooBox_Free_Extension",
-		"categories": ["Featured" , "Free"],
+		"categories": ["Free"],
 		"file": "foobox-free.php",
 		"title": "FooBox FREE",
 		"description": "The best lightbox for WordPress. Free",
