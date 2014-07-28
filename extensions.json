@@ -124,5 +124,19 @@
 		"source": "github",
 		"download_link": "https://github.com/fooplugins/foogallery-media-menu/archive/master.zip",
 		"minimum_version": "1.0.1"
+	},
+	{
+		"slug": "owl-carousel",
+		"class": "Owl_Carousel_Template_FooGallery_Extension",
+		"categories": ["Free"],
+		"file": "foogallery-owl-carousel-extension.php",
+		"title": "Owl Carousel Template",
+		"description": "An Owl Carousel template with multiple options for presentation and functionality. Full details on Owl Carousel <a href="http://www.owlcarousel.owlgraphic.com/">here</a>",
+		"author": "Matt Cromwell",
+		"author_url": "http://mattcromwell.com",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/owl_carousel.jpg",
+		"tags": ["template"],
+		"source": "repo",
+		"download_link": "http://wordpress.org/plugins/foogallery-owl-carousel-template/"
 	}
 ]
