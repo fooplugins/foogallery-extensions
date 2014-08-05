@@ -140,6 +140,19 @@
 		"minimum_version": "1.0.2.1"
 	},
 	{
+		"slug": "thirstyaffiliates-for-foogallery-extension",
+		"class": "ThirstyAffiliatesForFooGallery",
+		"title": "ThirstyAffiliates",
+		"categories": ["Featured" , "Free"],
+		"file": "thirstyaffiliates-for-foogallery-extension.php",
+		"description": "Lets you create galleries of images that link to affiliate links (powered by ThirstyAffiliates)",
+		"author": "ThirstyAffiliates",
+		"author_url": "http://thirstyaffiliates.com",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/thirstyaffiliates.png",
+		"tags": ["affiliates", "marketing"],
+		"source": "repo"
+	},	
+	{
 		"slug": "media_menu",
 		"class": "FooGallery_Media_Menu_Extension",
 		"categories": ["Free"],
