@@ -97,7 +97,7 @@
 		"source": "bundled"
 	},
 	{
-		"slug": "owl-carousel",
+		"slug": "foogallery-owl-carousel-template",
 		"class": "Owl_Carousel_Template_FooGallery_Extension",
 		"categories": ["Featured" , "Free"],
 		"file": "foogallery-owl-carousel-extension.php",
@@ -107,8 +107,7 @@
 		"author_url": "http://mattcromwell.com",
 		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/owl_carousel.jpg",
 		"tags": ["template"],
-		"source": "repo",
-		"download_link": "http://wordpress.org/plugins/foogallery-owl-carousel-template/"
+		"source": "repo"
 	},
 	{
 		"slug": "zoom",
