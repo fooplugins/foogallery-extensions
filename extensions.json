@@ -110,7 +110,7 @@
 		"source": "repo"
 	},
 	{
-		"slug": "zoom",
+		"slug": "foogallery-zoom-template",
 		"class": "ZOOM_Template_FooGallery_Extension",
 		"categories": ["Free"],
 		"file": "foogallery-zoom-extension.php",
@@ -120,8 +120,7 @@
 		"author_url": "http://mattcromwell.com",
 		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/zoom_template.png",
 		"tags": ["template"],
-		"source": "github",
-		"download_link": "https://github.com/mathetos/foogallery-zoom/archive/master.zip"
+		"source": "repo"
 	},	
 	{
 		"slug": "foobox-image-lightbox",
