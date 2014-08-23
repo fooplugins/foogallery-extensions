@@ -24,8 +24,7 @@
 		"author_url": "http://fooplugins.com",
 		"thumbnail": "/extensions/albums/foogallery-albums.png",
 		"tags": ["functionality"],
-		"source": "bundled",
-		"css_class": "coming_soon"
+		"source": "bundled"
 	},
 	{
 		"slug": "foobox",
