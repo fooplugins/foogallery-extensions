@@ -96,7 +96,7 @@
 		"source": "bundled"
 	},
 	{
-		"slug": "foogallery-owl-carousel-template",
+		"slug": "owl-carousel",
 		"class": "Owl_Carousel_Template_FooGallery_Extension",
 		"categories": ["Featured" , "Free"],
 		"file": "foogallery-owl-carousel-extension.php",
