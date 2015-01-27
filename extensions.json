@@ -67,6 +67,26 @@
 			"href": "http://fooplugins.com/plugins/foogallery-branding",
 			"confirm": false
 		}
+	},
+	{
+		"slug": "cube-gallery",
+		"class": "Cube_Gallery_Template_FooGallery_Extension",
+		"categories": ["Featured" , "Premium"],
+		"file": "foogallery-cube-gallery-extension.php",
+		"title": "Cube Gallery",
+		"description": "A direction-aware gallery that gives your gallery a cool cube-like rollover effect.",
+		"price": "$5",
+		"author": "FooPlugins",
+		"author_url": "http://fooplugins.com/plugins/cube-gallery-template/",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/cube_gallery.png",
+		"tags": ["premium"],
+		"source": "fooplugins",
+		"download_button": {
+			"text": "Buy - $5",
+			"target": "_blank",
+			"href": "http://fooplugins.com/plugins/cube-gallery-template/",
+			"confirm": false
+		}
 	},	
 	{
 		"slug": "polaroid_template",
