@@ -14,6 +14,24 @@
 		"activated_by_default": true
 	},
 	{
+		"slug": "foovideo",
+		"class": "Foo_Video",
+		"categories": ["Featured" , "Premium"],
+		"title": "FooVideo",
+		"description": "Easily add videos to your galleries from YouTube or Vimeo",
+		"author": "FooPlugins",
+		"author_url": "http://fooplugins.com",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/foovideo.png",
+		"tags": ["functionality"],
+		"source": "fooplugins",
+		"download_button": {
+			"text": "Buy - $29",
+			"target": "_blank",
+			"href": "http://fooplugins.com/plugins/foovideo",
+			"confirm": false
+		}
+	},	
+	{
 		"slug": "albums",
 		"class": "FooGallery_Albums_Extension",
 		"title": "Albums",
