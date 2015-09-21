@@ -30,6 +30,7 @@
 		"slug": "foovideo",
 		"class": "Foo_Video",
 		"categories": ["Featured" , "Premium"],
+		"file": "foogallery-foo-video-extension.php",
 		"title": "FooVideo",
 		"description": "Easily add videos to your galleries from YouTube or Vimeo",
 		"author": "FooPlugins",
