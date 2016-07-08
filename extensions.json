@@ -44,6 +44,25 @@
 			"href": "http://fooplugins.com/plugins/foovideo",
 			"confirm": false
 		}
+	},
+	{
+		"slug": "foogrid",
+		"class": "FooGrid_Template_FooGallery_Extension",
+		"categories": ["Featured" , "Premium"],
+		"file": "foogallery-foogrid-extension.php",
+		"title": "FooGrid",
+		"description": "Display your own gallery items just like Google image search results!",
+		"author": "FooPlugins",
+		"author_url": "http://fooplugins.com",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/foogrid.png",
+		"tags": ["template"],
+		"source": "fooplugins",
+		"download_button": {
+			"text": "Buy - $19",
+			"target": "_blank",
+			"href": "http://fooplugins.com/plugins/foogrid/",
+			"confirm": false
+		}
 	},	
 	{
 		"slug": "foobox",
