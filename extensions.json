@@ -45,6 +45,19 @@
 		"source": "bundled"
 	},
 	{
+		"slug": "sharing",
+		"class": "FooGallery_Sharing_Extension",
+		"title": "Social Sharing",
+		"categories": ["Free"],
+		"description": "Advanced social sharing!",
+		"html": "Advanced social sharing!",
+		"author": "FooPlugins",
+		"author_url": "http://fooplugins.com",
+		"thumbnail": "/extensions/albums/foogallery-albums.png",
+		"tags": ["functionality"],
+		"source": "bundled"
+	},
+	{
 		"slug": "foogrid",
 		"class": "FooGrid_Template_FooGallery_Extension",
 		"categories": ["Featured" , "Premium"],
