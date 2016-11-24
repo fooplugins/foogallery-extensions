@@ -14,6 +14,19 @@
 		"activated_by_default": true
 	},
 	{
+		"slug": "fooshare",
+		"class": "FooShare_v1_0_0",
+		"categories": ["Featured" , "Free"],
+		"title": "FooShare",
+		"description": "FooShare Social Sharing",
+		"author": "FooPlugins",
+		"author_url": "http://fooplugins.com",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/default_templates.png",
+		"tags": ["functionality"],
+		"source": "bundled",
+		"activated_by_default": true
+	},	
+	{
 		"slug": "foovideo",
 		"class": "Foo_Video",
 		"categories": ["Featured" , "Premium"],
