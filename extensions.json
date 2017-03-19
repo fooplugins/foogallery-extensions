@@ -195,7 +195,7 @@
 		"source": "bundled"
 	},
 	{
-		"slug": "owl-carousel",
+		"slug": "foogallery-owl-carousel-template",
 		"class": "Owl_Carousel_Template_FooGallery_Extension",
 		"categories": ["Featured" , "Free"],
 		"file": "foogallery-owl-carousel-extension.php",
