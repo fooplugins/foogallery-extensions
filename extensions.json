@@ -38,7 +38,7 @@
 		"tags": ["functionality"],
 		"source": "fooplugins",
 		"download_button": {
-			"text": "Buy - $29",
+			"text": "Buy Now!",
 			"target": "_blank",
 			"href": "http://fooplugins.com/plugins/foovideo",
 			"confirm": false
@@ -70,7 +70,7 @@
 		"tags": ["template"],
 		"source": "fooplugins",
 		"download_button": {
-			"text": "Buy - $19",
+			"text": "Buy Now!",
 			"target": "_blank",
 			"href": "http://fooplugins.com/plugins/foogrid/",
 			"confirm": false
@@ -102,7 +102,7 @@
 		"tags": ["premium", "lightbox"],
 		"source": "fooplugins",
 		"download_button": {
-			"text": "Buy - $27",
+			"text": "Buy Now!",
 			"target": "_blank",
 			"href": "http://fooplugins.com/plugins/foobox",
 			"confirm": false
@@ -140,7 +140,7 @@
 		"tags": ["premium"],
 		"source": "fooplugins",
 		"download_button": {
-			"text": "Buy - $27",
+			"text": "Buy Now!",
 			"target": "_blank",
 			"href": "http://fooplugins.com/plugins/foogallery-branding",
 			"confirm": false
@@ -160,7 +160,7 @@
 		"tags": ["premium"],
 		"source": "fooplugins",
 		"download_button": {
-			"text": "Buy - $5",
+			"text": "Buy Now!",
 			"target": "_blank",
 			"href": "http://fooplugins.com/plugins/cube-gallery-template/",
 			"confirm": false,
@@ -220,7 +220,13 @@
 		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/zoom_template.png",
 		"tags": ["template"],
 		"source": "github",
-		"download_link": "https://github.com/mathetos/foogallery-zoom/archive/master.zip"
+		"download_button": {
+			"text": "More Info",
+			"target": "_blank",
+			"href": "https://github.com/mathetos/foogallery-zoom",
+			"confirm": false,
+			"banner-text": "redirecting..."
+		}
 	},
 	{
 		"slug": "media_menu",
