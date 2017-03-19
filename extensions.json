@@ -111,7 +111,7 @@
 		"minimum_version": "2.3.2"
 	},
 	{
-		"slug": "foobox",
+		"slug": "foobox-image-lightbox",
 		"class": "FooGallery_FooBox_Free_Extension",
 		"categories": ["Free"],
 		"file": "foobox-free.php",
