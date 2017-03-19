@@ -108,7 +108,6 @@
 			"confirm": false
 		},
 		"activated_by_default": true,
-		"minimum_version": "2.3.2",
 		"remove_if_active": ["foobox-image-lightbox"]
 	},
 	{
