@@ -163,7 +163,8 @@
 			"text": "Buy - $5",
 			"target": "_blank",
 			"href": "http://fooplugins.com/plugins/cube-gallery-template/",
-			"confirm": false
+			"confirm": false,
+			"banner-text": "redirecting..."
 		}
 	},	
 	{
