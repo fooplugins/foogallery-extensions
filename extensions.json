@@ -68,7 +68,7 @@
 		"slug": "foobox",
 		"class": "FooGallery_FooBox_Extension",
 		"categories": ["Featured" , "Premium"],
-		"file": "foobox.php",
+		"file": "foobox-free.php",
 		"title": "FooBox PRO",
 		"description": "The best lightbox for WordPress just got even better!",
 		"price": "$39",
@@ -84,6 +84,7 @@
 			"confirm": false
 		},
 		"activated_by_default": true,
+		"remove_if_active": ["foobox-image-lightbox"],
 		"minimum_version": "2.3.2"
 	},
 	{
