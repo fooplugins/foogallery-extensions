@@ -71,21 +71,20 @@
 		"file": "foobox-free.php",
 		"title": "FooBox PRO",
 		"description": "The best lightbox for WordPress just got even better!",
-		"price": "$39",
+		"price": "$27",
 		"author": "FooPlugins",
 		"author_url": "http://fooplugins.com",
 		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/foobox.png",
 		"tags": ["premium", "lightbox"],
 		"source": "fooplugins",
 		"download_button": {
-			"text": "Buy - $39",
+			"text": "Buy Now!",
 			"target": "_blank",
 			"href": "http://fooplugins.com/plugins/foobox",
 			"confirm": false
 		},
 		"activated_by_default": true,
-		"remove_if_active": ["foobox-image-lightbox"],
-		"minimum_version": "2.3.2"
+		"remove_if_active": ["foobox-image-lightbox"]
 	},
 	{
 		"slug": "custom_branding",
