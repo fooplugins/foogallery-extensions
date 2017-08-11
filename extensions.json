@@ -92,7 +92,7 @@
 		"slug": "foobox",
 		"class": "FooGallery_FooBox_Extension",
 		"categories": ["Featured" , "Premium"],
-		"file": "foobox-free.php",
+		"file": "foobox-pro.php",
 		"title": "FooBox PRO",
 		"description": "The best lightbox for WordPress just got even better!",
 		"price": "$27",
