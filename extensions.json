@@ -44,25 +44,6 @@
 			"href": "http://fooplugins.com/plugins/foovideo",
 			"confirm": false
 		}
-	},
-	{
-		"slug": "foogrid",
-		"class": "FooGrid_Template_FooGallery_Extension",
-		"categories": ["Featured" , "Premium"],
-		"file": "foogallery-foogrid-extension.php",
-		"title": "FooGrid",
-		"description": "Display your own gallery items just like Google image search results!",
-		"author": "FooPlugins",
-		"author_url": "http://fooplugins.com",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/foogrid.png",
-		"tags": ["template"],
-		"source": "fooplugins",
-		"download_button": {
-			"text": "Buy - $19",
-			"target": "_blank",
-			"href": "http://fooplugins.com/plugins/foogrid/",
-			"confirm": false
-		}
 	},	
 	{
 		"slug": "foobox",
@@ -107,41 +88,6 @@
 		}
 	},
 	{
-		"slug": "cube-gallery",
-		"class": "Cube_Gallery_Template_FooGallery_Extension",
-		"categories": ["Featured" , "Premium"],
-		"file": "foogallery-cube-gallery-extension.php",
-		"title": "Cube Gallery",
-		"description": "A direction-aware gallery that gives your gallery a cool cube-like rollover effect.",
-		"price": "$5",
-		"author": "FooPlugins",
-		"author_url": "http://fooplugins.com/plugins/cube-gallery-template/",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/cube_gallery.png",
-		"tags": ["premium"],
-		"source": "fooplugins",
-		"download_button": {
-			"text": "Buy - $5",
-			"target": "_blank",
-			"href": "http://fooplugins.com/plugins/cube-gallery-template/",
-			"confirm": false
-		}
-	},
-	{
-		"slug": "polaroid_template",
-		"class": "FooGallery_Polaroid_Template_Extension",
-		"categories": ["Featured" , "Free"],
-		"file": "foogallery-polaroid-template.php",
-		"title": "Polaroid Template",
-		"description": "A cool retro Polaroid gallery layout",
-		"author": "FooPlugins",
-		"author_url": "http://fooplugins.com",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/polaroid.png",
-		"tags": ["template"],
-		"source": "github",
-		"download_link": "https://github.com/fooplugins/foogallery-polaroid-template/archive/master.zip",
-		"minimum_version": "1.0.1"
-	},
-	{
 		"slug": "nextgen",
 		"class": "FooGallery_Nextgen_Gallery_Importer_Extension",
 		"categories": ["Free"],
@@ -152,19 +98,6 @@
 		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/nextgen_importer.png",
 		"tags": ["tools"],
 		"source": "bundled"
-	},
-	{
-		"slug": "foogallery-owl-carousel-template",
-		"class": "Owl_Carousel_Template_FooGallery_Extension",
-		"categories": ["Featured" , "Free"],
-		"file": "foogallery-owl-carousel-extension.php",
-		"title": "Owl Carousel Template",
-		"description": "An Owl Carousel template with multiple options for presentation and functionality.",
-		"author": "Matt Cromwell",
-		"author_url": "http://mattcromwell.com",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/owl_carousel.jpg",
-		"tags": ["template"],
-		"source": "repo"
 	},
 	{
 		"slug": "foogallery-zoom-template",
@@ -193,19 +126,6 @@
 		"source": "repo",
 		"activated_by_default": true,
 		"minimum_version": "1.0.2.1"
-	},
-	{
-		"slug": "thirstyaffiliates-for-foogallery-extension",
-		"class": "ThirstyAffiliatesForFooGallery",
-		"title": "ThirstyAffiliates",
-		"categories": ["Featured" , "Free"],
-		"file": "thirstyaffiliates-for-foogallery-extension.php",
-		"description": "Lets you create galleries of images that link to affiliate links (powered by ThirstyAffiliates)",
-		"author": "ThirstyAffiliates",
-		"author_url": "http://thirstyaffiliates.com",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/thirstyaffiliates.png",
-		"tags": ["affiliates", "marketing"],
-		"source": "repo"
 	},	
 	{
 		"slug": "media_menu",
