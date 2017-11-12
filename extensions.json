@@ -11,7 +11,7 @@
 		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/default_templates.png",
 		"tags": ["template"],
 		"source": "bundled",
-		"activated_by_default": true
+		"activated_by_default": false
 	},
 	{
 		"slug": "fooshare",
