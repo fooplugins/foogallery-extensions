@@ -126,7 +126,20 @@
 		"source": "repo",
 		"activated_by_default": true,
 		"minimum_version": "1.0.2.1"
-	},	
+	},
+	{
+ 		"slug": "foogallery-owl-carousel-template",
+ 		"class": "Owl_Carousel_Template_FooGallery_Extension",
+ 		"categories": ["Free"],
+ 		"file": "foogallery-owl-carousel-extension.php",
+ 		"title": "Owl Carousel Template",
+ 		"description": "An Owl Carousel template with multiple options for presentation and functionality.",
+ 		"author": "Matt Cromwell",
+ 		"author_url": "http://mattcromwell.com",
+ 		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/owl_carousel.jpg",
+ 		"tags": ["template"],
+ 		"source": "repo"
+ 	},
 	{
 		"slug": "media_menu",
 		"class": "FooGallery_Media_Menu_Extension",
