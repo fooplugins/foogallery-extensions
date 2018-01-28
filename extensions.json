@@ -29,8 +29,8 @@
 			"target": "_blank",
 			"href": "http://fooplugins.com/plugins/foovideo",
 			"confirm": false
-		}
-		"perform_plugin_active_check": true,
+		},
+		"perform_plugin_active_check": true
 	},	
 	{
 		"slug": "albums",
