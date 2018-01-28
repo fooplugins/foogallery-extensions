@@ -22,7 +22,7 @@
 		"description": "Easily add videos to your galleries from YouTube or Vimeo",
 		"author": "FooPlugins",
 		"author_url": "http://fooplugins.com",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/foovideo.png",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/foovideo_400x300.png",
 		"tags": ["functionality"],
 		"source": "fooplugins",
 		"freemius_button": {
