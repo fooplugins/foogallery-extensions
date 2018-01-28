@@ -16,6 +16,7 @@
 	{
 		"slug": "foovideo",
 		"class": "FooGallery_FooVideo",
+		"file": "foogallery-foovideo.php",
 		"categories": ["Featured" , "Premium"],
 		"title": "FooVideo",
 		"description": "Easily add videos to your galleries from YouTube or Vimeo",
