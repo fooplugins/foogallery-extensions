@@ -25,11 +25,11 @@
 		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/foovideo.png",
 		"tags": ["functionality"],
 		"source": "fooplugins",
-		"download_button": {
-			"text": "Buy Now!",
-			"target": "_blank",
-			"href": "http://fooplugins.com/plugins/foovideo",
-			"confirm": false
+		"freemius_button": {
+			"text": "Buy",
+			"plugin_id": "1637",
+			"plan_id": "2462",
+			"public_key": "pk_242929ac0026ee8cf2d150342dca7"
 		},
 		"perform_plugin_active_check": true
 	},	
