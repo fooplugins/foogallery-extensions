@@ -15,7 +15,7 @@
 	},
 	{
 		"slug": "foovideo",
-		"class": "FooGallery_FooVideo",
+		"class": "FooGallery_FooVideo_Extension",
 		"file": "foogallery-foovideo.php",
 		"categories": ["Featured" , "Premium"],
 		"title": "FooVideo",
