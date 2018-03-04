@@ -14,18 +14,24 @@
 		"activated_by_default": true
 	},
 	{
-		"slug": "demo-content",
-		"class": "FooGallery_Demo_Content_Generator",
-		"file": "class-demo-content-generator.php",
-		"categories": ["Featured" , "Free"],
-		"title": "Demo Content Generator",
-		"description": "Generate demo galleries using royalty-free images from Pixabay",
+		"slug": "foovideo",
+		"class": "FooGallery_FooVideo_Extension",
+		"file": "foogallery-foovideo.php",
+		"categories": ["Featured" , "Premium"],
+		"title": "FooVideo",
+		"description": "Easily add videos to your galleries from YouTube or Vimeo",
 		"author": "FooPlugins",
 		"author_url": "http://fooplugins.com",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/democontent_400x300.png",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/foovideo_400x300.png",
 		"tags": ["functionality"],
-		"source": "bundled"
-	},	
+		"source": "fooplugins",
+		"freemius_button": {
+			"text": "Buy",
+			"plugin_id": "1637",
+			"pricing_id": "1677"
+		},
+		"perform_plugin_active_check": true
+	},		
 	{
 		"slug": "albums",
 		"class": "FooGallery_Albums_Extension",
@@ -193,5 +199,18 @@
 		"source": "github",
 		"download_link": "https://github.com/fooplugins/foogallery-media-menu/archive/master.zip",
 		"minimum_version": "1.0.1"
-	}
+	},
+	{
+		"slug": "demo-content",
+		"class": "FooGallery_Demo_Content_Generator",
+		"file": "class-demo-content-generator.php",
+		"categories": ["Featured" , "Free"],
+		"title": "Demo Content Generator",
+		"description": "Generate demo galleries using royalty-free images from Pixabay",
+		"author": "FooPlugins",
+		"author_url": "http://fooplugins.com",
+		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/democontent_400x300.png",
+		"tags": ["functionality"],
+		"source": "bundled"
+	}	
 ]
