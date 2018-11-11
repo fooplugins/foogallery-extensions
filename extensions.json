@@ -27,25 +27,6 @@
 		"source": "bundled"
 	},
 	{
-		"slug": "foovideo",
-		"class": "Foo_Video",
-		"categories": ["Featured" , "Premium"],
-		"file": "foogallery-foo-video-extension.php",
-		"title": "FooVideo",
-		"description": "Easily add videos to your galleries from YouTube or Vimeo",
-		"author": "FooPlugins",
-		"author_url": "http://fooplugins.com",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/foovideo.png",
-		"tags": ["functionality"],
-		"source": "fooplugins",
-		"download_button": {
-			"text": "Buy - $29",
-			"target": "_blank",
-			"href": "http://fooplugins.com/plugins/foovideo",
-			"confirm": false
-		}
-	},	
-	{
 		"slug": "foobox",
 		"class": "FooGallery_FooBox_Extension",
 		"categories": ["Featured" , "Premium"],
@@ -68,26 +49,6 @@
 		"remove_if_active": ["foobox-image-lightbox"]
 	},
 	{
-		"slug": "custom_branding",
-		"class": "Custom_Branding_FooGallery_Extension",
-		"categories": ["Featured" , "Premium"],
-		"file": "foogallery-custom-branding-extension.php",
-		"title": "Custom Branding",
-		"description": "Brand FooGallery to whatever you like. Ideal for freelancers and agencies",
-		"price": "$19",
-		"author": "FooPlugins",
-		"author_url": "http://fooplugins.com/plugins/foogallery-branding",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/custom_branding.png",
-		"tags": ["premium"],
-		"source": "fooplugins",
-		"download_button": {
-			"text": "Buy - $19",
-			"target": "_blank",
-			"href": "http://fooplugins.com/plugins/foogallery-branding",
-			"confirm": false
-		}
-	},
-	{
 		"slug": "nextgen",
 		"class": "FooGallery_Nextgen_Gallery_Importer_Extension",
 		"categories": ["Free"],
@@ -99,19 +60,6 @@
 		"tags": ["tools"],
 		"source": "bundled"
 	},
-	{
-		"slug": "foogallery-zoom-template",
-		"class": "ZOOM_Template_FooGallery_Extension",
-		"categories": ["Free"],
-		"file": "foogallery-zoom-extension.php",
-		"title": "ZOOM",
-		"description": "A simple gallery with one awesome effect: ZOOM",
-		"author": "Matt Cromwell",
-		"author_url": "http://mattcromwell.com",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/zoom_template.png",
-		"tags": ["template"],
-		"source": "repo"
-	},	
 	{
 		"slug": "foobox-image-lightbox",
 		"class": "FooGallery_FooBox_Free_Extension",
@@ -126,33 +74,5 @@
 		"source": "repo",
 		"activated_by_default": true,
 		"minimum_version": "1.0.2.1"
-	},
-	{
- 		"slug": "foogallery-owl-carousel-template",
- 		"class": "Owl_Carousel_Template_FooGallery_Extension",
- 		"categories": ["Free"],
- 		"file": "foogallery-owl-carousel-extension.php",
- 		"title": "Owl Carousel Template",
- 		"description": "An Owl Carousel template with multiple options for presentation and functionality.",
- 		"author": "Matt Cromwell",
- 		"author_url": "http://mattcromwell.com",
- 		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/owl_carousel.jpg",
- 		"tags": ["template"],
- 		"source": "repo"
- 	},
-	{
-		"slug": "media_menu",
-		"class": "FooGallery_Media_Menu_Extension",
-		"categories": ["Free"],
-		"file": "foogallery-media-menu.php",
-		"title": "Use Media Menu",
-		"description": "Move FooGallery menu items underneath the Media menu rather",
-		"author": "FooPlugins",
-		"author_url": "http://fooplugins.com",
-		"thumbnail": "https://s3.amazonaws.com/foogallery/extensions/use_media_menu.png",
-		"tags": ["admin"],
-		"source": "github",
-		"download_link": "https://github.com/fooplugins/foogallery-media-menu/archive/master.zip",
-		"minimum_version": "1.0.1"
 	}
 ]
